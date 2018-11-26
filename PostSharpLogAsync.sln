@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostSharpLogAsync", "PostSharpLogAsync\PostSharpLogAsync.csproj", "{CBEFB04B-B9D3-49A0-A29A-B76CC020102F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBEFB04B-B9D3-49A0-A29A-B76CC020102F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBEFB04B-B9D3-49A0-A29A-B76CC020102F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CBEFB04B-B9D3-49A0-A29A-B76CC020102F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CBEFB04B-B9D3-49A0-A29A-B76CC020102F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {301DA7AA-F80D-4B8D-999F-8A645311879E}
+	EndGlobalSection
+EndGlobal
